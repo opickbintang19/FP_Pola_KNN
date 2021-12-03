@@ -1,2 +1,2 @@
-# FP_Pola_KNN
+# FP Pola KNN
 Final Project Pengenalan Pola
